@@ -1,4 +1,4 @@
-# Python_Study_2022_05
+# Python-Algorithm_Study_2022_05
 
 ## 스터디 규칙
 
